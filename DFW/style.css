@@ -1,0 +1,56 @@
+h1{
+    color: orange;
+}
+
+li{
+    list-style: none;
+}
+
+.navbar-brand{
+    color:orange;
+}
+
+.social{
+    color: orange;
+}
+
+.lore{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.video{
+    background-image: url("img/video_bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.ranking{
+    background: #999999;
+}
+
+textarea{
+    border-radius: 5px;
+}
+
+table, td, th {
+    border: 1px solid black;
+    margin-bottom: 20px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th {
+    height: 50px;
+    Color: orange;
+  }
+
+.footer{
+    height: 200px;
+    background-color: #999999;
+}
